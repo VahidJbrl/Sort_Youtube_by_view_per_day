@@ -1,4 +1,4 @@
-# Sort Youtube cjannel videos by view per day
+# Sort Youtube channel videos by view per day
 YouTube Channel Video Sorter (by view per day)
 
 **Description:**
